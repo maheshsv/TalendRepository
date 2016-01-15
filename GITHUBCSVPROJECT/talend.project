@@ -381,4 +381,5 @@
     <migrationTask xmi:id="_6nQNfbuaEeWe1uA-ru7mtQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_5YQDobuaEeWe1uA-ru7mtQ" login="raksharma@hotwire.com" firstName="Rakesh" lastName="Sharma" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_Q3CXYbudEeW4eqHT11VPdg" login="sramalingam@expedia.com" firstName="Sithalakshmi" lastName="Ramalingam" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
